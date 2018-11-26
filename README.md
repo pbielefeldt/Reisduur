@@ -9,6 +9,7 @@ About
 Right now, we can gauge the time for sailing from one bouy to another, given a wind speed and direction. 
 It is possible to add up multiple legs.
 In future, a graphical representation is planned.
+![screenshot](https://user-images.githubusercontent.com/13000622/49007280-60a4ae00-f16b-11e8-931c-24f67088e63e.png)
 
 Install
 -------
